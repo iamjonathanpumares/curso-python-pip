@@ -146,3 +146,12 @@ git push origin master
 ```
 
 Configuración para el `.gitignore`: https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
+
+## Flujo de trabajo en Python
+
+Pasos para ejecutar el proyecto game:
+
+```sh
+cd game
+python3 main.py
+```
